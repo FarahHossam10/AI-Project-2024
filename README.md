@@ -26,5 +26,5 @@ Every board state has a value associated with it. In a given state if the maximi
 the board will tend to be some positive value. If the minimizer has the upper hand in that board state then
 it will tend to be some negative value.
 
-# You can check out how this code works in more detail here:
-[https://youtu.be/L36nbxMPvwk?si=B3fURQP5YTNbvWzw]
+## You can check out how this code works in more detail here:
+https://youtu.be/L36nbxMPvwk?si=B3fURQP5YTNbvWzw
